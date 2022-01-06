@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZKY STORE</string>
+    <string name="pref_key">PrefNotesKey</string>
+    <string name="username_key">NotesUsername</string>
+    <string name="idserver_key">NotesIdServer</string>
+    <string name="jumlah_key">NotesJumlah</string>
+</resources>
